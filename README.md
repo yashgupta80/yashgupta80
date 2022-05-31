@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgupta80" alt="yashgupta80" /></a> </p>
 
+<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <a href="https://twitter.com/y_a_s_h_u_" target="blank"><img src="https://img.shields.io/twitter/follow/y_a_s_h_u?logo=twitter&style=for-the-badge" alt="y_a_s_h_u_" /></a> </p>
 
 - 🌱 I’m currently learning **Android studio**
