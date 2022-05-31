@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgupta80" alt="yashgupta80" /></a> </p>
 
-<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif">
+<img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif">
 
 <p align="left"> <a href="https://twitter.com/y_a_s_h_u_" target="blank"><img src="https://img.shields.io/twitter/follow/y_a_s_h_u?logo=twitter&style=for-the-badge" alt="y_a_s_h_u_" /></a> </p>
 
