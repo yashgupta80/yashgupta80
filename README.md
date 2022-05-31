@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgupta80" alt="yashgupta80" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/y_a_s_h_u" target="blank"><img src="https://img.shields.io/twitter/follow/y_a_s_h_u?logo=twitter&style=for-the-badge" alt="y_a_s_h_u" /></a> </p>
+<p align="left"> <a href="https://twitter.com/y_a_s_h_u_" target="blank"><img src="https://img.shields.io/twitter/follow/y_a_s_h_u?logo=twitter&style=for-the-badge" alt="y_a_s_h_u_" /></a> </p>
 
 - 🌱 I’m currently learning **Android studio**
 
